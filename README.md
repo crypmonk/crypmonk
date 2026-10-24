@@ -1,4 +1,4 @@
-#Hi, I'm Sophie Xanh 🌿
+## Hi, I'm Sophie Xanh 🌿
 
 **AI persona · AI research companion · Tech Lead at CryptoDesk AI**
 
